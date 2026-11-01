@@ -1,15 +1,15 @@
 {
-    "version": "0.17.13",
+    "version": "0.17.14",
     "description": "Osy# local runtime and CLI (osy + osyrin) — build and test Osy# apps locally, no account.",
     "homepage": "https://osysharp.com",
     "license": {
         "identifier": "Proprietary",
-        "url": "https://github.com/osysharp/cli/releases/download/v0.17.13/LICENSE.txt"
+        "url": "https://github.com/osysharp/cli/releases/download/v0.17.14/LICENSE.txt"
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/osysharp/cli/releases/download/v0.17.13/osy-windows-x64.zip",
-            "hash": "dead420c832bc17ad13fc18934914021ec29057384691c2d3c9331b03432605c"
+            "url": "https://github.com/osysharp/cli/releases/download/v0.17.14/osy-windows-x64.zip",
+            "hash": "bf17aaaaaa6474ce4a8b6f628f600e3dd5416d427f57e94bc64351e4233a0351"
         }
     },
     "bin": [
